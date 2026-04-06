@@ -67,7 +67,7 @@ The Power BI dashboard includes:
 
 ## 👤 About Me
 
-**Saisujith Srirangam** — Aspiring Data Analyst  
+**Sujith Srirangam** — Aspiring Data Analyst  
 B.Tech Computer Science | Kasireddy Narayan Reddy College of Engineering & Research, Hyderabad  
 
 Skills: Python | SQL | Excel | Power BI | Data Visualization
