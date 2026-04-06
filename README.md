@@ -77,4 +77,4 @@ Skills: Python | SQL | Excel | Power BI | Data Visualization
 ## 📬 Connect With Me
 
 - 💼 www.linkedin.com/in/sujith-srirangam-73315b256
-- 🐙 [GitHub](#) ← *Add your GitHub profile URL here*
+- 🐙 https://github.com/sujith-10
